@@ -1,8 +1,8 @@
 {
-  "name": "h16rkim@google-workspace",
+  "name": "@h16rkim/google-workspace",
   "version": "0.0.1",
   "description": "Google Workspace Server Extension",
-  "private": true,
+  "private": false,
   "bin": {
     "gemini-workspace-server": "workspace-server/dist/index.js"
   },
